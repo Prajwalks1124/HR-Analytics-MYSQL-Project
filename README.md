@@ -61,8 +61,10 @@ Analyze HR data using SQL to answer key HR-related questions such as:
 
 ## 📸 Screenshots
 
+It's looks like <img width="1089" height="451" alt="1st page" src="https://github.com/user-attachments/assets/3a9d04a6-f25e-4ad2-82fc-6f03c60b3bbd" />
+
 See the `/screenshots` folder for:https://github.com/Prajwalks1124/HR-Analytics-MYSQL-Project/blob/main/1st%20page.png, https://github.com/Prajwalks1124/HR-Analytics-MYSQL-Project/blob/main/2nd%20page.png,
-https://github.com/Prajwalks1124/HR-Analytics-MYSQL-Project/blob/main/3rd%20page.png and 
+https://github.com/Prajwalks1124/HR-Analytics-MYSQL-Project/blob/main/3rd%20page.png and https://github.com/Prajwalks1124/HR-Analytics-MYSQL-Project/blob/main/4th%20page.png.
 - SQL queries
 - Result tables
 - Visual walkthroughs of each question
